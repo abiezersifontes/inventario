@@ -1,0 +1,22 @@
+Actualizarle al sistema de inventario:
+
+-Colocarle fecha a las salidas y las entradas
+-Agregar Sujerencias de Busqueda en el codigo del producto
+-Agregar Busqueda por coincidencias
+-Mensaje se Desvanesca al realizar una accion(registrar: salida, entrada)
+-Validar que no se ingrese datos negativos el los input de cantidad
+-Producto no puede quedar en negativo
+-Mostrar reporte de Salidas por fecha, Salidas por Dpto
+-Mostrar el nombre y el codigo en las salidas y la entradas
+-Opcion para imprimir
+-Ordenar productos alfabeticamente
+-Mensaje de Confirmacion para eliminar
+-Traer datos de consulta por ajax
+-Template con mensajes de alerta
+
+
+Listos
+-------------------
+-Agregar Soft Deleting
+-Entrada no Elimina
+-Productos no Eliminar
